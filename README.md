@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saigowtham7967
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learing and data science
+- 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
 
 
