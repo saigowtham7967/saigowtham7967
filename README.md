@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saigowtham7967
 - 👀 I’m interested in Automation and Webscraping with python
-- 🌱 I’m currently learning data science and machine learning
+- 🌱 I’m currently learning DevOps and System Design
 - 💞️ I’m looking to collaborate on machine learning projects
 
 
